@@ -3,9 +3,7 @@ import './homepage.style.scss'
 
 const HomePage=()=>(
     <div className='homepage'>
-        <h1>Welcome to my home page</h1>
-        <Directory/>
-        
+        <Directory/>    
     </div>
 )
 
